@@ -1,0 +1,125 @@
+body{
+    
+
+display: flex;
+flex-direction: column;
+align-items: center;
+
+}
+.hero{
+    
+    display: flex;
+    flex-direction: column;
+align-items: center;
+
+
+}
+
+
+.icons-container{ 
+
+margin-top:20px;
+margin-bottom:20px;
+gap: 35px;
+
+
+
+
+display: flex;
+    flex-direction:row;
+justify-content:center;
+
+}
+
+.icons-container svg
+{ 
+    height:40px;
+width:40px;
+color: black;
+
+}
+
+.buttons-container{
+   
+    display: flex;
+    flex-direction: column;
+align-items: center;
+gap:20px;
+}
+
+.buttons-container button
+{
+
+    height:56px;
+    width:261px;
+    border-radius:200px;
+    background-color:#EFCD8B;
+
+}
+
+main
+
+{ 
+    height:800px;
+    width:300px;background-color:#8F350E;
+    display: flex;
+    flex-direction:column;
+    justify-content:center;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.mon-titre{
+color:black;
+font-size: 15px;
+font-family: "Inter", sans-serif;
+    font-style: italic;
+   
+
+
+}
+
+h2{
+    font-size:15px;
+    color: aliceblue;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
